@@ -1,16 +1,16 @@
 ![logo](https://github.com/Harish-918/Harish-918/blob/main/Banner.jpg)
-<h1 align="center">Hi 👋, I'm Kotakonda Harish</h1>
-<h3 align="center">A passionate Java Full Stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Harish Kotakonda</h1>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format=1500w">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harish-918&label=Profile%20views&color=0e75b6&style=flat" alt="harish-918" /> </p>
 
-- 🌱 I’m currently learning **ReactJS and Advance Java**
+- 🌱 I’m currently learning **Next.js and Advance Java**
 
 - 👨‍💻 All of my projects are available at [https://harish-918.github.io/Harish918/](https://harish-918.github.io/Harish918/)
 
-- 💬 Ask me about **HTML, CSS and Core Java**
+- 💬 Ask me about **MERN, Java and MySQL**
 
 - 📫 How to reach me **kotakondaharish94@gmail.com**
 
